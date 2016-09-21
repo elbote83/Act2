@@ -44,8 +44,8 @@ text-align: center;
 
 
 header{
-	width: 1000px;
-	height: 120 px;
+	width: 1500px;
+	height: 150 px;
 	background: rgba(255, 255, 255, 10,70);
 }
 
@@ -74,7 +74,7 @@ li{
 
 section{
 	width: 700px;
-	background: gray;
+	background: green;
 	height: 600px;
 	float: left;
 	margin-top: 20px;
