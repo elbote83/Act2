@@ -1,12 +1,13 @@
-/*font-family: 'Shadows Into Light', cursive;
- font-family: 'Indie Flower', cursive;
+/*font-family: 'Ubuntu', sans-serif;
+font-family: 'Yatra One', cursive;
+font-family: 'Exo', sans-serif;
 */
 
 #contenidos{
 	width: 1000px;
 	height: auto;
 	margin: auto;
-	position: center;
+	position: relative;
 	
 
 }
@@ -20,7 +21,7 @@ background-size: cover;
 }
 
 h1{
-font-family: 'Shadows Into Light', cursive;
+font-family: 'Ubuntu', sans-serif;
 color: white;
 margin-left: 10px;
 font-size: 60px;
@@ -28,15 +29,15 @@ text-align: center;
 }
 
 h2{
-font-family: 'Indie Flower', cursive;
+font-family: 'Yatra One', cursive;
 color: white;
 margin-left: 10px;
 font-size: 20px;
-text-align: left; 
+text-align: center; 
 }
 
 h3{
-font-family: 'Shadows Into Light', cursive;;
+font-family: 'Exo', sans-serif;
 color: white;
 font-size: 30px;
 text-align: center; 
@@ -94,7 +95,7 @@ aside{
 footer{
 width: 1000px;
 height: 70px;
-background: maroon;
+background: yellow;
 float: left;
 margin-top: 20px;
 border-radius: 10px;
